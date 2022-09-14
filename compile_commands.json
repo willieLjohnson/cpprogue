@@ -1,0 +1,62 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-std=c++11",
+      "-o",
+      "game",
+      "src/Actor.cpp"
+    ],
+    "directory": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue",
+    "file": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue/src/Actor.cpp",
+    "output": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue/game"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-std=c++11",
+      "-o",
+      "game",
+      "src/Engine.cpp"
+    ],
+    "directory": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue",
+    "file": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue/src/Engine.cpp",
+    "output": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue/game"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-std=c++11",
+      "-o",
+      "game",
+      "src/Map.cpp"
+    ],
+    "directory": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue",
+    "file": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue/src/Map.cpp",
+    "output": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue/game"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-std=c++11",
+      "-o",
+      "game",
+      "src/main.cpp"
+    ],
+    "directory": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue",
+    "file": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue/src/main.cpp",
+    "output": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpprogue/game"
+  }
+]
